@@ -2,9 +2,10 @@
 template: HomePage
 slug: ""
 title: Better software faster
-featuredImage: https://ucarecdn.com/d2828bcd-4c7c-4ca7-bc5f-2ceb16bdf790/
-subtitle: Learning better ways to build the rights things and to build the right
-  things better together.
+featuredImage: https://ucarecdn.com/a79a3116-5542-47c4-bb19-e8183fd1b401/
+subtitle: >-
+  
+  Learning better ways to build the rights things and to build the right things better together.
 meta:
   description: >+
     Learning better ways to build the rights things and to build the right
