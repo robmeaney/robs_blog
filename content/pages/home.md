@@ -5,7 +5,7 @@ title: Better software faster
 featuredImage: https://ucarecdn.com/a79a3116-5542-47c4-bb19-e8183fd1b401/
 subtitle: >-
   
-  Learning better ways to build the rights things and to build the right things better together.
+  Learning better ways of building the right thing and building the right thing better together.
 meta:
   description: >+
     Learning better ways to build the rights things and to build the right
