@@ -1,9 +1,10 @@
 ---
 template: HomePage
 slug: ""
-title: Unfucking Software
-featuredImage: https://ucarecdn.com/9633d352-b17e-44b6-b046-da222d15ef49/
-subtitle: Learning better ways to unfuck software and how we create it.
+title: Better software faster
+featuredImage: https://ucarecdn.com/d2828bcd-4c7c-4ca7-bc5f-2ceb16bdf790/
+subtitle: Learning better ways to build the rights things and to build the right
+  things better together.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
