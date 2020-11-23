@@ -6,8 +6,11 @@ featuredImage: https://ucarecdn.com/d2828bcd-4c7c-4ca7-bc5f-2ceb16bdf790/
 subtitle: Learning better ways to build the rights things and to build the right
   things better together.
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: >+
+    Learning better ways to build the rights things and to build the right
+    things better together.
+
+  title: Rob Meaneys BLog
   noindex: false
 ---
 Hi, I'm Rob, and I help teams deliver software that has a positive impact on the world. 
